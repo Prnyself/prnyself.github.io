@@ -1,4 +1,4 @@
-
+## This is Lance's blog.
 
 ![](https://raw.githubusercontent.com/prnyself/prnyself.github.io/master/img/readme-home.png)
 
@@ -9,8 +9,6 @@
 [![](https://img.shields.io/github/stars/prnyself/prnyself.github.io.svg?style=social&label=Star)](https://github.com/prnyself/prnyself.github.io)
 [![](https://img.shields.io/github/forks/prnyself/prnyself.github.io.svg?style=social&label=Fork)](https://github.com/prnyself/prnyself.github.io)
 
-
-This is Lance's blog.
 
 ## 致谢
 
