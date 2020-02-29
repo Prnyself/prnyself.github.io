@@ -1,4 +1,4 @@
-## Lance's blog.
+## Lance's blog
 
 [![Build Status](https://travis-ci.org/prnyself/prnyself.github.io.svg?branch=master)](https://travis-ci.org/prnyself/prnyself.github.io)
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-prnyself-prnyself-github-io-master)
