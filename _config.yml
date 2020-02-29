@@ -1,7 +1,7 @@
 # Site settings
 title: Lance's Blog
 SEOTitle: Lance Ren 的博客 | Lance's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-man-sit-in-valley.jpg
 email: lanceren@yunify.com
 description: "Hakuna Matata."
 keyword: "Lance, Lance's Blog, Golang, Game"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/Prnyself/prnyself.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "From zero to hero"
+sidebar-avatar: /img/about_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
-
+plugins: [jekyll-paginate]
 
 
 # Markdown settings
@@ -54,7 +54,9 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: disqus_fHMQBtiMkS
+# disqus:
+#   enable: true
+#   disqus_username: disqus_fHMQBtiMkS
 
 # Gitalk
 gitalk:
