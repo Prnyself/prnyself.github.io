@@ -2,7 +2,7 @@
 layout:     post
 title:      rpm 包的 pre/post install/remove 脚本
 subtitle:   yum / rpm 使用心得
-date:       2020-05-09
+date:       2020-07-09
 author:     Lance
 header-img: img/post-bg-rain-drops.jpg
 catalog: true
